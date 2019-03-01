@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "split": "^1.0.0",
-    "through2": "^3.0.0"
+    "through2": "^3.0.1"
   },
   "devDependencies": {
     "deep-diff": "^1.0.0",
